@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Numbersf&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+![Numbersf's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
  
 #### 🐾 Visitor
 ![:reindex-ot](https://count.getloli.com/get/@:Numbersf)
