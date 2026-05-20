@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Numbersf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Numbersf/Numbersf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Numbersf's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+ 
+#### 🐾 Visitor
+![](https://count.getloli.com/get/@:Numbersf)
