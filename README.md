@@ -3,14 +3,14 @@
 #### 🌈 ``Stats``
 <picture>
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true&theme=dark"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true" alt="Numbersf's GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Numbersf&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="Numbersf's GitHub stats" />
 </picture>
  
 #### 🐾 ``Visitors``
@@ -19,14 +19,14 @@
 #### 🌌 ``Languages``
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&theme=dark&hide=markdown&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&theme=dark&hide=markdown&langs_count=8&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&hide=markdown&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&hide=markdown&langs_count=8&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&hide=markdown&langs_count=8" alt="Numbersf's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbersf&layout=compact&hide=markdown&langs_count=8&hide_border=true&bg_color=00000000" alt="Numbersf's top languages" />
 </picture>
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/30f8d4888ebdf18d612e593e15ed9ea4ee000bfc/topics/bash/bash.png" alt="shell" /></code>
