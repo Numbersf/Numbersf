@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=F5A9B8&center=true&vCenter=true&width=940&lines=Welcome+to+my+space!;You+can+call+me+Numbersf+or+lengyu_qwq;I'm+specializing+in+Android/Linux;Font+Modules+and+Automated+Kernel+Building">
+<img src="https://readme-typing-svg.demolab.com?font=Meslo+Nerd+Font&size=32&duration=2800&pause=2000&color=F5A9B8&center=true&vCenter=true&width=940&lines=Welcome+to+my+space!;You+can+call+me+Numbersf+or+lengyu_qwq;I'm+specializing+in+Android/Linux;Font+Modules+and+Automated+Kernel+Building">
  
 #### 🌈 ``Stats``
 <picture>
